@@ -1,0 +1,22 @@
+{
+	"label2idx": {
+		"neutral":0, 
+		"angry":1, 
+		"calm":2, 
+		"disgusted":3, 
+		"afraid":4, 
+		"happy":5, 
+		"sad":6, 
+		"surprised":7
+	},
+	"idx2label": {
+		"0": "neutral", 
+		"1": "angry", 
+		"2": "calm", 
+		"3": "disgusted", 
+		"4": "afraid", 
+		"5":"happy", 
+		"6":"sad", 
+		"7":"surprised"
+	}
+}
