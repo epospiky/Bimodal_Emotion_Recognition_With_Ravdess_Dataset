@@ -1,22 +1,22 @@
 {
 	"label2idx": {
 		"neutral":0, 
-		"angry":1, 
-		"calm":2, 
-		"disgusted":3, 
-		"afraid":4, 
-		"happy":5, 
-		"sad":6, 
+		"calm":1, 
+		"happy":2, 
+		"sad":3, 
+		"angry":4, 
+		"afraid":5, 
+		"disgusted":6, 
 		"surprised":7
 	},
 	"idx2label": {
 		"0": "neutral", 
-		"1": "angry", 
-		"2": "calm", 
-		"3": "disgusted", 
-		"4": "afraid", 
-		"5":"happy", 
-		"6":"sad", 
+		"1": "calm", 
+		"2": "happy", 
+		"3": "sad", 
+		"4": "angry", 
+		"5":"afraid", 
+		"6":"disgusted", 
 		"7":"surprised"
 	}
 }
